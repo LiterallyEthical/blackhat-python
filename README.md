@@ -16,6 +16,7 @@ This repo is collection of python scripts & tools that has been written for Pene
 * [spynet.py](NetworkBasics/ReplacingNetcat/spynet.py)
 
 ### 1.4. SSH
+* [ssh-cmd.py](NetworkBasics/SSH/ssh-cmd.py)
 
 
 
