@@ -5,7 +5,7 @@ This repo is collection of python scripts & tools that has been written for Pene
 
 ### 1.1. TCP
 * [tcp-client.py](/NetworkBasics/TCP/tcp-client.py)
-* 
+* [tcp-server.py](/NetworkBasics/TCP/tcp-server.py)
 
 ### 1.2. SSH
 
