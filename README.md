@@ -13,6 +13,7 @@ This repo is collection of python scripts & tools that has been written for Pene
 
 ### 1.3. Replacing Netcat
 * [netcat.py](/NetworkBasics/ReplacingNetcat/netcat.py)
+* [spynet.py](NetworkBasics/ReplacingNetcat/spynet.py)
 
 ### 1.4. SSH
 
