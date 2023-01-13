@@ -18,7 +18,7 @@ This repo is collection of python scripts & tools that has been written for Pene
 ### 1.4. SSH
 * [ssh-cmd.py](NetworkBasics/SSH/ssh-cmd.py)
 * [ssh-rcmd.py](NetworkBasics/SSH/ssh-rcmd.py)
-
+* [ssh-server.py](NetworkBasics/SSH/ssh-server.py)
 
 - [1. Network Basics](#1-network-basics)
   - [1.1. TCP](#11-tcp)
