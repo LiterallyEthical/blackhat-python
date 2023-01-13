@@ -9,7 +9,7 @@ This repo is collection of python scripts & tools that has been written for Pene
 * [tcp-proxy.py](/NetworkBasics/TCP/tcp-proxy.py)
 
 ### 1.2. UDP
-*[udp-client.py](NetworkBasics/UDP/udp-client.py)
+* [udp-client.py](NetworkBasics/UDP/udp-client.py)
 
 ### 1.3. SSH
 
