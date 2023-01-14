@@ -28,7 +28,7 @@ This repo is collection of python scripts & tools that has been written for Pene
 ### 2.1. Packet Sniffing
 * [sniffer.py](RawSocksAndSniffing/sniffer.py)
 
-### Decoding the IP Layer
+### 2.2. Decoding the IP Layer
 * [sniffer_ip_header_decode.py](RawSocksAndSniffing/sniffer_ip_header_decode.py)
 
 - [1. Network Basics](#1-network-basics)
@@ -39,6 +39,6 @@ This repo is collection of python scripts & tools that has been written for Pene
   - [1.5. SSH Tunneling](#15-ssh-tunneling)
 - [2. Raw Sockets and Sniffing](#2-raw-sockets-and-sniffing)
   - [2.1. Packet Sniffing](#21-packet-sniffing)
-  - [Decoding the IP Layer](#decoding-the-ip-layer)
+  - [2.2. Decoding the IP Layer](#22-decoding-the-ip-layer)
 
 
