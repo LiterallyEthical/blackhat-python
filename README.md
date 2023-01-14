@@ -31,7 +31,7 @@ This repo is collection of python scripts & tools that has been written for Pene
 ### 2.2. Decoding the IP Layer
 * [sniffer_ip_header_decode.py](RawSocksAndSniffing/sniffer_ip_header_decode.py)
 
-### Decoding with ICMP
+### 2.3. Decoding with ICMP
 * [scanner.py](RawSocksAndSniffing/scanner.py)
 
 
@@ -44,6 +44,6 @@ This repo is collection of python scripts & tools that has been written for Pene
 - [2. Raw Sockets and Sniffing](#2-raw-sockets-and-sniffing)
   - [2.1. Packet Sniffing](#21-packet-sniffing)
   - [2.2. Decoding the IP Layer](#22-decoding-the-ip-layer)
-  - [Decoding with ICMP](#decoding-with-icmp)
+  - [2.3. Decoding with ICMP](#23-decoding-with-icmp)
 
 
