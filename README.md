@@ -23,11 +23,18 @@ This repo is collection of python scripts & tools that has been written for Pene
 ### 1.5. SSH Tunneling
 * [rforward.py](NetworkBasics/SSHTunneling/rforward.py)
 
+## Raw Sockets and Sniffing
+
+### Packet Sniffing
+* [sniffer.py](RawSocksAndSniffing/sniffer.py)
+
 - [1. Network Basics](#1-network-basics)
   - [1.1. TCP](#11-tcp)
   - [1.2. UDP](#12-udp)
   - [1.3. Replacing Netcat](#13-replacing-netcat)
   - [1.4. SSH](#14-ssh)
   - [1.5. SSH Tunneling](#15-ssh-tunneling)
+- [Raw Sockets and Sniffing](#raw-sockets-and-sniffing)
+  - [Packet Sniffing](#packet-sniffing)
 
 
